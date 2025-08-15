@@ -21,7 +21,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="navbar-content">
         <div className="logo">
-          ShoeShop
+          SE ShoeShop
         </div>
         
         {/* Desktop Navigation */}
